@@ -91,3 +91,10 @@ Grabación de la presentación
 Carlos Eloy Cordova Sandoval
 
 Este README proporciona una descripción general del proyecto, detalles sobre el análisis de datos, modelos utilizados, resultados, y recomendaciones para mejorar. También incluye información sobre la organización del repositorio.
+
+# Enlaces Importantes
+
+## Proyecto de Predicción de Ventas
+
+- [Presentación del Proyecto](https://drive.google.com/file/d/1uSwTelVoOrQsOAXIGpPpVGrtlvyE09e8/view?usp=sharing)
+
