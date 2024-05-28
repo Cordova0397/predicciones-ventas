@@ -69,16 +69,16 @@ R^2: 0.5508170421288534
 MSE: 1294714.1633859728
 RMSE: 1137.8550713451923
 
-Resultados y Recomendaciones
+## Resultados y Recomendaciones
 KNN: R^2: 0.4217, MSE: 1666974.36, RMSE: 1292.68
 Regresión Lineal: R^2: 0.5624, MAE: 827.67, MSE: 1261327.80, RMSE: 1123.09
 Bosques Aleatorios: R^2: 0.5508, MSE: 1294714.16, RMSE: 1137.86
 Los bosques aleatorios proporcionaron el mejor rendimiento en términos de R^2 y RMSE. Se recomienda seguir optimizando este modelo y explorar más características.
 
-Conclusiones
+## Conclusiones
 Este proyecto demuestra cómo diferentes modelos de regresión pueden ser utilizados para predecir ventas. Los bosques aleatorios mostraron ser el modelo más efectivo. Se sugiere seguir mejorando este modelo y considerar más características para aumentar la precisión de las predicciones.
 
-Repositorio
+## Repositorio
 Este proyecto está disponible en GitHub. El repositorio incluye:
 
 Código fuente
@@ -87,7 +87,7 @@ Resultados de los modelos
 Diapositivas de la presentación
 Grabación de la presentación
 
-Autor
+## Autor
 Carlos Eloy Cordova Sandoval
 
 Este README proporciona una descripción general del proyecto, detalles sobre el análisis de datos, modelos utilizados, resultados, y recomendaciones para mejorar. También incluye información sobre la organización del repositorio.
